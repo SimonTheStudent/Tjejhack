@@ -1,0 +1,29 @@
+Hade av någon anledning för mig att planeringen skulle in 22/4 istället för 8/4, sorry
+Planeringen är skriven i anteckningar för har inte word på min egen dator här hemma
+
+Planering
+
+Tidsplan:
+Se videor och förstå uppgiften helt - 1h
+Göra tidsplan med skisser och allt annat - 1-2h
+Komma igång med kodandet och installera alla program på hemdator - 1h
+Koda och se videos - 10h
+Buggfix - 3h
+Lämna in projektet 6/5
+
+Skiss:
+Se bifogad fil
+
+Leverans:
+Jag ska försöka göra allt som visass i skissen till min bästa förmåga, svåra delar kommer vara att få in google maps och ett spel.
+Själva hemsidan komemr att bestå utav en avlong sida där man kan "hoppa" mellan olika rubriker genom användning av headern.
+
+Budget:
+Se tidsplan, tidsrapport görs i takt med arbetet
+
+Bugglista: Görs i takt med arbetet
+
+Checklista:
+1. Använd inte kontrastande färger
+2. Undvik knappar, om du måste använda mus
+3. Om tid finns, skapa en engelsk version av sidan för de som ej kan svenska
