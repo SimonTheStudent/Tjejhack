@@ -1,0 +1,3 @@
+Bugglista:
+1. Knuthahnloggan är inte längst till höger
+2. Rubriken är under headern.   fixade med "padding top"
