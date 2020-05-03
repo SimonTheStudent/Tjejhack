@@ -48,3 +48,7 @@
   margin: 10px;
   border: solid black;
 }
+
+canvas{
+	background-color: black;
+}
