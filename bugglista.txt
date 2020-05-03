@@ -2,3 +2,4 @@ Bugglista:
 1. Knuthahnloggan är inte längst till höger
 2. Rubriken är under headern.   fixade med "padding top"
 3. Saker ser inte ut som de borde. Fixat, saknade några sluttaggar
+4. Eftersom navbaren är satt som att visas permanent så täcker den delar av sidan så rubrikerna till alla sectioner visas ej. Fixat, med padding top som innan

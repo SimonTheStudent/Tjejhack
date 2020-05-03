@@ -1,21 +1,21 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="style.css">
 
-  <title>Tjejhack!</title>
+  <link rel="stylesheet" type="text/css" href="style.css"> <!--Min egna css -->
+
+  <title>Tjejhack!</title> <!--Valde att göra sidan som en lång kolumn för att man ska kunna använda sidan utan en mus och bara med tangentbordet -->
 </head>
-<body>
+<body> 
   <div class="container">
     <header>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-        <!-- <a class="navbar-brand" href="#">Navbar</a> -->
+        <!-- Här är nav baren -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -59,7 +59,7 @@
       <article>
         <section class="sectionmargin" id="hem">
           <div>
-            <h1 class="titel">Tjejhack! - Teknikprogrammet</h1>
+            <h1 class="titel">Tjejhack! - Teknikprogrammet</h1> <!--Använder flexbox för att det ska fungera oavsett fönsterstorlek -->
             <button type="button" class="btn btn-danger">Dagens uppgift!!!</button>
             <ul class="flex-container wrap">
               <img class="flex-item box" src="img/1.jpg">
@@ -74,18 +74,18 @@
         </section>
       </article>
       <article>
-        <section class="sectionmargin padding" id="kalender">
+        <section class="sectionmargin padding" id="kalender"> <!--Visste inte hur man infogar en kalender, men jag tyckte att man kan få fram samma bydskap snabbare med bara text -->
           <div class="jumbotron jumbotron-fluid">
             <div class="container">
               <h1 class="display-4">Kommande tjejhack</h1>
               <p class="lead">Nästa tjejhack är 12-12-2020</p>
-              <p class="lead">Nästa tjejhack är 12-12-2020</p>
+              <p class="lead" id="mentorer">Nästa tjejhack är 12-12-2020</p> <!--Jag la id "mentorer här för att det skulle fungera bättre även fast koden ser konstig ut" -->
             </div>
           </div>
         </section>
       </article>
       <article>
-        <section class="sectionmargin" id="mentorer">
+        <section class="sectionmargin" >
           <div class="container">
             <h1>Mentorer</h1>
             <ul class="flex-container wrap">
@@ -113,9 +113,9 @@
              <div class="container">
             <h1 class="display-4">Snake</h1>
              <div class="row">
-            <div class="col-lg-6 lead"><p>Spela snake med piltangenterna, men akta dig så inte spelet hamnar utanför skärmen.</p></div>
+            <div class="col-lg-6 lead"><p>Spela snake med piltangenterna. Akta dig så inte spelet hamnar utanför skärmen.</p><p><a href="https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4">Full credit till andvändaren "straker" på github</a></p></div>
             <div class="col-lg-6">
-              <canvas width="400" height="400" id="game"></canvas>
+              <canvas width="400" height="400" id="game"></canvas> <!--Här låg tidigare hela scripten till spelet, men flyttade det till en helt egen fil då den kluddade till allt -->
             </div>
           </div>
         </div>
@@ -154,7 +154,7 @@
       </section>
     </article>
     <article>
-      <section class="sectionmargin padding" id="mer">
+      <section class="sectionmargin padding" id="information">
         <div class="container">
           <div class="jumbotron jumbotron-fluid">
             <div class="container">
@@ -178,6 +178,6 @@
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-  <script type="text/javascript" src="script.js"></script>
+  <script type="text/javascript" src="script.js"></script> <!--Länk till min scriptfil -->
 </body>
 </html>
