@@ -1,3 +1,4 @@
 Bugglista:
 1. Knuthahnloggan är inte längst till höger
 2. Rubriken är under headern.   fixade med "padding top"
+3. Saker ser inte ut som de borde. Fixat, saknade några sluttaggar
