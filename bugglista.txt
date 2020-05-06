@@ -1,6 +1,20 @@
 Bugglista:
-1. Knuthahnloggan är inte längst till höger
-2. Rubriken är under headern.   fixade med "padding top"
-3. Saker ser inte ut som de borde. Fixat, saknade några sluttaggar
-4. Eftersom navbaren är satt som att visas permanent så täcker den delar av sidan så rubrikerna till alla sectioner visas ej. Fixat, med padding top som innan
-5. Knapparna fungerar inte att byta sida. "Fixades" genom attbyta till en "a" istället 
+1. Rubriken är under headern.   fixade med "padding top"
+2. Saker ser inte ut som de borde. Fixat, saknade några sluttaggar
+3. Eftersom navbaren är satt som att visas permanent så täcker den delar av sidan så rubrikerna till alla sectioner visas ej. Fixat, med padding top som innan
+4. Knapparna fungerar inte att byta sida. "Fixades" genom attbyta till en "a" istället 
+
+Tidsrapport:
+22/4 - 3 timmar
+Gjrode planeringen och skelettet till hemsidan, samt lada ner program och se på videos
+
+29/4 - 3 timmar
+Börjar jobba neråt med hemsidan, hann de först apunkterna
+
+3/5 - 4 timmar
+Försökte komma på spel som passade samt fixa det och några andra punkter
+
+6/5 - 3 timmar
+Gjorde de sista punkterna, samt försökte göra sidan snyggare
+
+Buggare jobbades i takt med att de dök upp

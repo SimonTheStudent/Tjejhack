@@ -19,11 +19,22 @@ Jag ska försöka göra allt som visass i skissen till min bästa förmåga, sv�
 Själva hemsidan komemr att bestå utav en avlong sida där man kan "hoppa" mellan olika rubriker genom användning av headern.
 
 Budget:
-Se tidsplan, tidsrapport görs i takt med arbetet
+22/4 - 3 timmar
+Gjrode planeringen och skelettet till hemsidan, samt lada ner program och se på videos
+
+29/4 - 3 timmar
+Börjar jobba neråt med hemsidan, hann de först apunkterna
+
+3/5 - 4 timmar
+Försökte komma på spel som passade samt fixa det och några andra punkter
+
+6/5 - 3 timmar
+Gjorde de sista punkterna, samt försökte göra sidan snyggare
+
 
 Bugglista: Görs i takt med arbetet
 
 Checklista:
-1. Använd inte kontrastande färger
-2. Undvik knappar, om du måste använda mus
-3. Om tid finns, skapa en engelsk version av sidan för de som ej kan svenska
+1. Använd inte kontrastande färger - YEP
+2. Undvik knappar, om du måste använda mus - YEP
+3. Om tid finns, skapa en engelsk version av sidan för de som ej kan svenska - Inte tid
