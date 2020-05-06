@@ -1,6 +1,7 @@
 
 
-//full credit till användaren straker på github https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4 all kod är hens arbete
+//full credit till användaren straker på github https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4 all kod är hens arbete, men det stod inget om något sånt i uppgiften :)
+//hen skriver "You're free to use this game and code in any project, personal or commercial. There's no need to ask permission before using these. Giving attribution is not required, but appreciated."
 
           var canvas = document.getElementById('game');
           var context = canvas.getContext('2d');
